@@ -3,7 +3,7 @@
 Questo repository contiene il link al mio dashboard, che utilizza il dataset `m5_survey_data_technologies_normalised.csv` e include le seguenti visualizzazioni:
 
 ## Link al Dashboard
-[Visualizza il Dashboard]([https://lookerstudio.google.com/reporting/ad93caf4-2d06-48e4-a4f2-b6df0e871d17](https://lookerstudio.google.com/reporting/ad93caf4-2d06-48e4-a4f2-b6df0e871d17))
+[Visualizza il Dashboard](https://lookerstudio.google.com/reporting/ad93caf4-2d06-48e4-a4f2-b6df0e871d17))
 
 ---
 
