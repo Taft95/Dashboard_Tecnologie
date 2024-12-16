@@ -12,7 +12,6 @@ Questo repository contiene il link al mio dashboard, che utilizza il dataset `m5
 - **Campi**: Barre, Lunghezza, Colore.
 - **Titolo**: "Top 10 Linguaggi Utilizzati".
 - **Funzioni Aggiuntive**: Mostra etichette di valore.
-- # Dashboard - Uso Attuale della Tecnologia
 
 #### Pannello 2: Top 10 Database Lavorati
 - Grafico: Colonne.
